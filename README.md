@@ -1,3 +1,3 @@
 # Learning1
 This is my private leraning
-<br> Author - Sushil Gautam
+<br> Author - Sushil Gautam (IIT Kanpur, IIM Indore)  
